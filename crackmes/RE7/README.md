@@ -17,6 +17,7 @@ This repository details my solution to a 64-bit Windows crackme challenge (`code
         if (local_10 == 0x66) {
             printf("Congratulations, you have completed the challenge!\n");
         }
+```
    
 ## 🎯 The Challenge
 The target executable is a console application compiled with MinGW-w64. Upon execution, it requires two specific inputs to unlock the success state:
