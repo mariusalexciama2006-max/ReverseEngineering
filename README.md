@@ -2,7 +2,7 @@
 
 ## About
 
-This repository contains a collection of reverse engineering challenges and crackmes that I have analyzed, solved, or created to practice and improve my binary analysis skills. Rather than just storing the code, each project folder contains its own documentation explaining the challenge logic, decompiled code snippets, and the required inputs to solve them.
+This repository contains a collection of reverse engineering challenges and crackmes that I have analyzed, solved, or created to practice and improve my binary analysis skills. Rather than just storing the code, each project folder contains its own documentation explaining the challenge logic, decompiled code and the required inputs to solve them.
 
 The objective of this repository is to build a structured portfolio of reverse engineering projects while continuously improving my understanding of assembly, C programming, and software execution flow.
 
